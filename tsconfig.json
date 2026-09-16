@@ -12,8 +12,6 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "types": ["node", "jest", "react"],
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     }
