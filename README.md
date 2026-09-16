@@ -11,9 +11,9 @@ the list, rename one inline, and delete one.
 
 The PR is open on this repository:
 
-> **[PR #1 — feat(payments): add saved payees list with inline nickname editing](../../pull/1)**
+> **[PR #2 — feat(payments): add saved payees list with inline nickname editing](../../pull/2)**
 
-CI is green and the author considers it ready to merge.
+The author considers it ready to merge.
 
 ## What we'd like you to do
 
