@@ -15,8 +15,7 @@ The PR is open on this repository:
 
 > **[PR — feat(application): add monthly expenses step with running total](../../pulls)**
 
-The author drafted it with AI assistance, and our review bot has left some comments on it that
-haven't been addressed yet. The author considers the change ready to merge.
+The author considers the change ready to merge.
 
 ## What we'd like you to do
 
@@ -26,7 +25,7 @@ prepare in advance.** Come ready to tell us:
 - What you'd **approve**, and why
 - What you'd **reject or change** before this merges
 - What you'd want to **investigate further** or ask the author about
-- What you make of the **bot's review comments**
+- Which of your points would **block the merge**, and which you'd ship and fix later
 
 You do **not** need to run the code, install dependencies, or fix anything. Reading is enough.
 
@@ -41,7 +40,7 @@ something and aren't sure how much it matters, say so; thinking out loud is usef
 - Whether you can tell a **serious problem** from a **minor one**, and say which is which
 - How you **explain** an issue — a review comment has to be useful to the author
 - Whether you notice things that are **done well**, not just things that are wrong
-- How you weigh **automated review suggestions** — what to take, what to push back on
+- How you **prioritise** — what matters most here, and what's a nit
 
 That's it. There's no trick and no hidden scoring beyond the above.
 
